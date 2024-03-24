@@ -19,7 +19,7 @@ O uso do Collections Framework permite que você trabalhe com coleções de mane
 
 Para mais informações detalhadas, você pode consultar a documentação oficial da Oracle ou outros recursos educacionais que explicam como utilizar essas coleções em cenários reais²³⁴.
 
-Origem: conversa com o Bing, 24/03/2024
+Fontes: conversa com o Bing, 24/03/2024
 (1) Java Collections: Como utilizar Collections - DevMedia. https://www.devmedia.com.br/java-collections-como-utilizar-collections/18450.
 (2) Collections (Java Platform SE 8 ) - Oracle Help Center. https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html.
 (3) Collections em Java: Organizando e Manipulando Dados com Eficiência. https://www.dio.me/articles/collections-em-java-organizando-e-manipulando-dados-com-eficiencia.
